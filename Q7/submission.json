@@ -1,0 +1,8 @@
+{
+  "prompt": "An authentic vintage 1960s graphic design poster in the Swiss International Typographic Style (Internationales Typografisches Stil). The composition is stark, clinical, and built on a rigid mathematical grid.\n\nThe central motif is a highly structured, geometric visualization of a Decision Tree algorithm, branching asymmetrically from a single root point using clean, precise black lines and flat, unmodulated color fields of Swiss red (Pantone 485C), cobalt blue, and pure black on a textured off-white matte paper background. Negative space is highly active and structural in the layout. No gradients, shadows, or 3D effects.\n\nIntegrated into the grid are typographic elements using the Helvetica Neue typeface family as structural components. The main title is \"ENTSCHEIDUNGSBAUM\" (Decision Tree), aligned strictly to the grid, along with functional sans-serif text blocks like \"LOGISCHE FUNKTIONEN DER WAHL\" (Logical Functions of Choice) and \"DATENSTRUKTUR UND BRANCHING\" (Data Structure and Branching).\n\nThe image looks like a lithograph print on heavy paper stock with a very subtle visible fiber texture. The final output must not look like a modern vector illustration. --ar 2:3 --stylize 150 --style raw --v 6.1",
+  "model": "Midjourney v6.1",
+  "concept": "Decision Tree",
+  "tradition_name": "Swiss International Typographic Style",
+  "tradition_period": "1950s–1970s",
+  "tradition_approach": "I targeted the strict grid system, sans-serif typography as a structural element, asymmetrical balance, and flat primary color palette to authentically replicate the movement's focus on mathematical structure and objective communication."
+}

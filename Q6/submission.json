@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic, gritty photograph of an industrial sorting facility. A worker's hands are visible in the foreground, holding a heavy, precisely machined metal block with a specific, complex shape cut out of its center—a rigid physical stencil. Below, a fast-moving, chaotic conveyor belt carries thousands of random, irregular, mismatched metal objects. The worker is forcefully holding the stencil against the chaotic flow, waiting for the single object that perfectly matches and slides into the exact physical grooves of the cut-out. NO text, NO diagrams, NO floating UI, NO equations, NO glowing lines. A purely physical, mechanical scene.",
+  "model": "DALL-E 3",
+  "concept": "Template Matching",
+  "metaphor": "A worker in a chaotic industrial facility holds a rigid physical stencil against a fast-moving belt of random shapes, attempting to find the exact piece that perfectly slots into the stencil's specific grooves."
+}
